@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab57538a-d456-495c-a238-96a92d2ca1e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/example3/fifaranking/controller/RankController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/example3/fifaranking/dao/RankProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/example3/fifaranking/service/RankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/example3/fifaranking/util/CountryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/example3/RankServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controllers/FriendController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/example1/controller/FriendController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controllers/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/example2/controllers/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/dao/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/example2/dao/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/example2/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/example2/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/controllers/firend/FriendControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/example1/FriendControllerIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/controllers/firend/FriendControllerUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/example1/FriendControllerUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/controllers/student/StudentControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/example2/StudentServiceIntegrationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R6GXFQh66oFK8EllARbwpMnmHP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/Projects/Learning/unit-test/springboot-testing-example/src/main/java/com/example/currencyconverter",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "e9539dcdab82eba832e18d837ef18390"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Learning\unit-test\springboot-testing-example\src\main\java\com\example\currencyconverter" />
+      <recent name="D:\Projects\Learning\unit-test\springboot-testing-example\src\main\resources" />
+      <recent name="D:\Projects\Learning\unit-test\springboot-testing-example\src\main\java\com\example\controllers" />
+      <recent name="D:\Projects\Learning\unit-test\springboot-testing-example\src\main\java\com\example\mockito" />
+      <recent name="D:\Projects\Learning\unit-test\springboot-testing-example\src\main\java\com\example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.example3" />
+      <recent name="com.example.example2" />
+      <recent name="com.example.example1" />
+      <recent name="com.example.controllers" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.controllers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.currencyconverter" />
+      <recent name="com.example.controllers" />
+      <recent name="com.example.exchange" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootTestingExampleApplication">
+    <configuration name="RankServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-testing-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.example3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.example3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.example3.RankServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RankServiceTest.shouldReturnRankIran" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-testing-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.example3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.example3" />
+      <option name="MAIN_CLASS_NAME" value="com.example.example3.RankServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnRankIran" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example in springboot-testing-example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-testing-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.controllers in springboot-testing-example" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="springboot-testing-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.example1.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.controllers" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTestingExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-testing-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootTestingExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.example in springboot-testing-example" />
+        <item itemvalue="JUnit.RankServiceTest" />
+        <item itemvalue="JUnit.RankServiceTest.shouldReturnRankIran" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab57538a-d456-495c-a238-96a92d2ca1e7" name="Changes" comment="" />
+      <created>1686563159814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686563159814</updated>
+      <workItem from="1686563165173" duration="3490000" />
+      <workItem from="1686577723219" duration="7737000" />
+      <workItem from="1686628964956" duration="5055000" />
+      <workItem from="1686634264698" duration="1293000" />
+      <workItem from="1686663995894" duration="1080000" />
+      <workItem from="1686665107091" duration="6590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/example1/FriendControllerIntegrationTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/example1/FriendControllerIntegrationTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/example3/fifaranking/dao/RankProvider.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/example3/fifaranking/controller/RankController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/example3/RankServiceTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
